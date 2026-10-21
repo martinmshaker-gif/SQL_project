@@ -89,7 +89,7 @@ To find out which skills come with the highest pay, I calculated the average hou
 ### 5. Most Optimal Skills to Learn
 To find the best skills to learn, I combined demand and pay: how many Data Analyst postings mention each skill, and what the average hourly rate is for those postings. Skills in the top right of the chart are both in demand and well paid.
 
-![Most Optimal Skills](assets\optimal_skills.png)
+![Most Optimal Skills](assets/optimal_skills.png)
 
 *Scatter plot visualizing job listings versus average hourly rate for each skill; Claude generated this graph from my SQL query results*
 
